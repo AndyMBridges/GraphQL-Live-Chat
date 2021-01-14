@@ -3,9 +3,11 @@
 ## Stack
 
 - React
-- Hooks
+- Node/Express
+- JWT
 - GraphQL
 - Apollo
+- Hooks
 - Bulma
 
 ## Installation
